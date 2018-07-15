@@ -1,0 +1,186 @@
+body{
+    background-color: rgb(231, 231, 231) ;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.menu_l {
+    color:rgb(196, 127, 0) ;
+
+}
+.margin{
+    margin-left: 4.5px;
+}
+.logo{
+    color:floralwhite ;
+
+}
+
+.footer{
+    background-color: rgb(255, 198, 113);
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.footer_lien{
+    color:floralwhite;
+    font-weight: bold ;
+}
+.jumbotron {
+    padding:70px 20px 70px 20px;
+    margin:0px auto;
+    background:floralwhite;
+    border:3px solid rgb(236, 162, 0) ;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-inverse {
+     background-color: rgb(255, 158, 13);
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+@media (max-width: 576px) {
+    #mycarousel{
+        height: 120px;
+    }
+    #promo{
+        height: 120px;
+        margin-bottom: 50px;
+    } 
+    .marque_img{
+        margin-top : 15px;
+        height : 60px ;
+    }
+    .logo_v{
+        color:rgb(255, 158, 13);
+        font-size: 120%;
+    }
+    .text_v{
+        font-size:50%;
+    }
+    }
+    
+@media (min-width: 576px) {
+
+    .marque_img{
+            height :130px ;
+            
+    }
+    .img_pr{
+        height: 300px ;
+        width: 205px;
+    }
+    .logo_v{
+        color:rgb(255, 158, 13);
+        font-size: 250%;
+    }
+    .text_v{
+        font-size:80%;
+    }
+     }
+
+.carousel-item {
+  height: 360px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+   
+}
+.top_vente{
+        padding :10px ;
+        margin-right:0px;
+        margin-left:0px;
+        
+}
+.top_vente_title {
+    font-weight: bold ;
+    color:floralwhite ;
+}
+
+.text_pr{
+    text-align:center ;
+    font-weight:bold;
+}
+.badge_pr{
+    text-align:center ;
+
+}
+.promo_div{
+    border:1px solid rgb(214, 214, 214) ;
+    border-radius: 4px ;
+    
+}
+.produit{
+    background-color: white ;
+    border-left: 5px solid rgb(231, 231, 231) ;
+    border-right: 5px solid rgb(231, 231, 231) ;
+    padding: 0%;
+    margin-bottom : 45px ;
+}
+
+.para_produit{
+    font-size: 70% ;
+    font-weight: bold ;
+
+    padding:10px ;
+    height :130px ;
+
+}
+.title_produit{
+    color:floralwhite ;
+    font-weight: bold;
+    padding: 0px ;
+    font-size: 130% ;
+
+}
+.header_produit{
+    background-color: rgb(255, 198, 113);
+    padding: 10px 0px 1px 15px;
+    margin: 0%;
+    
+
+}
+.footer_produit{
+    background-color: rgb(255, 198, 113);
+    padding: 7px;
+    margin: 0%;
+    
+
+    
+}
+.commande_logo{
+    font-size: 160% ;
+    margin-right: 15px ;
+}
+.commande_txt{
+    font-weight: 500;
+    text-shadow: 0px 0px 2px #fffaf0 ;
+}
+
+.sign{
+    background-color: rgb(255, 198, 113);
+    padding: 20px;
+    margin: 0%;
+    color:floralwhite ;
+    font-weight: bold;
+    font-size: 130% ;
+
+}

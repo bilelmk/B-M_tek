@@ -1,0 +1,134 @@
+.unlock{
+    height:350px ;
+    background-color: rgb(252, 187, 66);
+    border-top-left-radius:20px;
+    border-bottom-left-radius:20px;
+}
+.unlock_logo{
+    color:floralwhite;
+    font-size : 1600%;
+    margin-top: 52px;
+    margin-left: 70px;
+
+    
+
+}
+.login{
+    height:350px ;
+    border: 15px solid rgb(252, 187, 66);
+    border-top-right-radius:20px;
+    border-bottom-right-radius:20px; 
+ 
+
+}
+.title{
+    font-weight:bold;
+    text-align:center;
+    color:floralwhite;
+    padding-top:30px;
+    padding-bottom:30px;
+    
+}
+.navbar-inverse {
+    background-color: rgb(255, 158, 13);
+    margin:0px auto;
+}
+
+.footer{
+    background-color: rgb(255, 198, 113);
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+.carre{
+
+    height:200px;
+    border:7px solid floralwhite;
+    border-radius: 3px;
+}
+.logo{
+    color:floralwhite;
+    font-size:600%;
+    text-align: center;
+    padding-top:10px;
+ 
+}
+@media (min-width: 576px) {
+.padding{
+    padding-left: 125px;
+}
+.padding_2
+{
+    padding-left: 200px;
+}
+
+}
+@media (max-width: 576px) {
+    .padding{
+        padding-left: 90px;
+    }
+    .padding_2
+    {
+        padding-left: 90px;
+    }
+
+}    
+
+.text_menu{
+    font-weight:bold;
+    color:floralwhite;
+    text-align: center;
+    margin-top: 20px;
+}
+.msg{
+    border: 1px solid rgb(179, 176, 176) ;
+    border-radius: 5px ;
+    background-color: rgb(245, 221, 188);
+
+    padding:30px ;
+    margin:15px;
+    
+}
+.inline{
+    display:inline-block;
+}
+h7{
+    color:floralwhite;
+    background-color: rgb(247, 182, 86);
+    padding:8px;
+    margin:8px;
+    font-weight: bold;
+    border-radius: 6px;
+}
+.limite{
+    overflow: auto;
+}
+.faux_ad{
+
+    padding:40px;
+    margin-top: 100px;
+} 
+.faux_bt{
+
+    
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+.ajout
+{
+    height:350px ;
+    background-color: rgb(252, 187, 66);
+    
+}
+.supp_logo{
+    font-size: 500%;
+    color:rgb(211, 58, 58);
+}
+.ajout_produit{
+    font-weight:bold;
+    height:120px;
+    padding-top:50px ;
+ 
+    text-align: center ;
+    margin-top:100px;
+    margin-bottom: 55px;
+}
